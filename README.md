@@ -75,14 +75,14 @@ print(df.head())
 | enterprise.attorney | premium   | $1,300    | $1,300        | 68             | 61     | 10     | namecheap        |
 | genius.attorney     | available | $69.99    | $81.99        | 98             | 45     | 6      | name.com         |
 | tap.attorney        | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC |
-| free.attorney       | premium   | $3,125    | $3,125        | 88             | 59     | 4      | name.com         |
+| ace.attorney        | premium   | $500      | $500          | 88             | 57     | 3      | name.com         |
 | creative.attorney   | available | $69.99    | $81.99        | 92             | 45     | 8      | name.com         |
 | smith.attorney      | resell    | —         | —             | 66             | 42     | 5      | Porkbun LLC      |
-| ace.attorney        | premium   | $500      | $500          | 88             | 57     | 3      | name.com         |
+| free.attorney       | premium   | $3,125    | $3,125        | 88             | 57     | 4      | name.com         |
 | creator.attorney    | available | $69.99    | $81.99        | 70             | 45     | 7      | name.com         |
-| yellow.attorney     | resell    | —         | —             | 116            | 37     | 6      | GoDaddy.com, LLC |
+| yellow.attorney     | resell    | —         | —             | 116            | 35     | 6      | GoDaddy.com, LLC |
 | live.attorney       | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com         |
-| forge.attorney      | available | $69.99    | $81.99        | 62             | 45     | 5      | name.com         |
+| event.attorney      | available | $76.98    | —             | 96             | 44     | 5      | namecheap        |
 | supreme.attorney    | resell    | —         | —             | 72             | 34     | 7      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
