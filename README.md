@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .attorney one-word domains from Un
 
 **Public extract:** 9,810 rows · **Live catalog:** 9,810 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/attorney`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | true.attorney       | available | $69.99    | $81.99        | 86             | 52     | 4      | name.com         |
 | brain.attorney      | resell    | —         | —             | 70             | 49     | 5      | Sav.com, LLC     |
 | easy.attorney       | premium   | $3,125    | $3,125        | 128            | 68     | 4      | name.com         |
-| simple.attorney     | available | $69.99    | $81.99        | 128            | 48     | 6      | name.com         |
+| simple.attorney     | available | $69.99    | $81.99        | 128            | 49     | 6      | name.com         |
 | drone.attorney      | resell    | —         | —             | 70             | 45     | 5      | GoDaddy.com, LLC |
 | power.attorney      | premium   | $1,300    | $1,300        | 98             | 62     | 5      | namecheap        |
 | only.attorney       | available | $69.99    | $81.99        | 110            | 46     | 4      | name.com         |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
