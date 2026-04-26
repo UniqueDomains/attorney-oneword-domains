@@ -1,22 +1,22 @@
-# Available .ATTORNEY One-Word Domains (9,810)
+# Available .ATTORNEY One-Word Domains (12,564)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C810%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C810%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C564%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .attorney one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .attorney one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,564 domains** on the canonical page below.
 
-**Public extract:** 9,810 rows · **Live catalog:** 9,810 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,564 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/attorney`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ATTORNEY one-word dom
 
 ### Files
 
-- `attorney.csv` — public CSV extract (9,810 rows)
-- `attorney.json` — public JSON extract (9,810 rows)
+- `attorney.csv` — public CSV extract (1,000 rows)
+- `attorney.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| true.attorney       | available | $69.99    | $81.99        | 86             | 52     | 4      | name.com         |
-| brain.attorney      | resell    | —         | —             | 70             | 49     | 5      | Sav.com, LLC     |
-| easy.attorney       | premium   | $3,125    | $3,125        | 128            | 68     | 4      | name.com         |
-| simple.attorney     | available | $69.99    | $81.99        | 128            | 49     | 6      | name.com         |
-| drone.attorney      | resell    | —         | —             | 70             | 45     | 5      | GoDaddy.com, LLC |
-| power.attorney      | premium   | $1,300    | $1,300        | 98             | 62     | 5      | namecheap        |
-| only.attorney       | available | $69.99    | $81.99        | 110            | 46     | 4      | name.com         |
-| shit.attorney       | resell    | —         | —             | 64             | 43     | 4      | GoDaddy.com, LLC |
-| enterprise.attorney | premium   | $1,300    | $1,300        | 68             | 61     | 10     | namecheap        |
-| genius.attorney     | available | $69.99    | $81.99        | 98             | 45     | 6      | name.com         |
-| tap.attorney        | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC |
-| ace.attorney        | premium   | $500      | $500          | 88             | 57     | 3      | name.com         |
-| creative.attorney   | available | $69.99    | $81.99        | 92             | 45     | 8      | name.com         |
-| smith.attorney      | resell    | —         | —             | 66             | 42     | 5      | Porkbun LLC      |
-| free.attorney       | premium   | $3,125    | $3,125        | 88             | 57     | 4      | name.com         |
-| creator.attorney    | available | $69.99    | $81.99        | 70             | 45     | 7      | name.com         |
-| yellow.attorney     | resell    | —         | —             | 116            | 35     | 6      | GoDaddy.com, LLC |
-| live.attorney       | premium   | $1,250    | $1,250        | 108            | 56     | 4      | name.com         |
-| event.attorney      | available | $76.98    | —             | 96             | 44     | 5      | namecheap        |
-| supreme.attorney    | resell    | —         | —             | 72             | 34     | 7      | Porkbun LLC      |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| Tools.attorney        | available | $76.98    | —             | 56             | 40     | 5      | namecheap       |
+| robots.attorney       | resell    | —         | —             | 62             | 47     | 6      | NameCheap, Inc. |
+| Books.attorney        | premium   | $1,400    | $1,400        | 52             | 49     | 5      | namecheap       |
+| neuroscience.attorney | available | $69.99    | —             | 80             | 37     | 12     | name.com        |
+| cars.attorney         | premium   | $500      | —             | 66             | 47     | 4      | name.com        |
+| events.attorney       | available | $69.99    | —             | 68             | 37     | 6      | name.com        |
+| skills.attorney       | premium   | $3,125    | —             | 58             | 47     | 6      | name.com        |
+| stories.attorney      | available | $69.99    | —             | 58             | 36     | 7      | name.com        |
+| etc.attorney          | premium   | $123.75   | —             | 58             | 34     | 3      | name.com        |
+| trends.attorney       | available | $69.99    | —             | 60             | 32     | 6      | name.com        |
+| solutions.attorney    | premium   | $250      | —             | 56             | 31     | 9      | name.com        |
+| maps.attorney         | available | $69.99    | —             | 56             | 31     | 4      | name.com        |
+| videos.attorney       | premium   | $1,000    | —             | 52             | 30     | 6      | name.com        |
+| KFC.attorney          | available | $76.98    | —             | 74             | 27     | 3      | namecheap       |
+| doctors.attorney      | premium   | $3,750    | —             | 56             | 26     | 7      | name.com        |
+| bees.attorney         | available | $69.99    | —             | 54             | 27     | 4      | name.com        |
+| schools.attorney      | premium   | $3,750    | —             | 72             | 24     | 7      | name.com        |
+| trades.attorney       | available | $62.99    | $62.99        | 71             | 26     | 6      | namesilo        |
+| loans.attorney        | premium   | $3,750    | —             | 58             | 24     | 5      | name.com        |
+| traders.attorney      | available | $69.99    | —             | 60             | 26     | 7      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,810-row public sample | 9,810 live domains                               |
+| 1,000-row public sample | 12,564 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
