@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .attorney one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,784 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,784 domains · **Median ask:** $192.16 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,784 domains · **Median ask:** $235.42 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/attorney`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| girls.attorney        | available | $69.99    | —             | 83             | 23     | 5      | name.com        |
-| ladies.attorney       | available | $69.99    | —             | 80             | 17     | 6      | name.com        |
-| useit.attorney        | available | $69.99    | —             | 94             | 7      | 6      | name.com        |
-| dogsit.attorney       | available | $69.99    | —             | 96             | 2      | 6      | name.com        |
-| QandA.attorney        | available | $76.98    | —             | 80             | 10     | 7      | namecheap       |
-| stirup.attorney       | available | $69.99    | —             | 82             | 3      | 7      | name.com        |
-| watches.attorney      | available | $69.99    | —             | 84             | 19     | 7      | name.com        |
-| Tools.attorney        | available | $76.98    | —             | 56             | 40     | 5      | namecheap       |
-| robots.attorney       | resell    | —         | —             | 62             | 47     | 6      | NameCheap, Inc. |
-| Books.attorney        | premium   | $1,400    | $1,400        | 52             | 49     | 5      | namecheap       |
-| neuroscience.attorney | available | $69.99    | —             | 80             | 37     | 12     | name.com        |
-| cars.attorney         | premium   | $500      | —             | 66             | 47     | 4      | name.com        |
-| events.attorney       | available | $69.99    | —             | 68             | 37     | 6      | name.com        |
-| skills.attorney       | premium   | $3,125    | —             | 58             | 47     | 6      | name.com        |
-| stories.attorney      | available | $69.99    | —             | 58             | 36     | 7      | name.com        |
-| etc.attorney          | premium   | $123.75   | —             | 58             | 32     | 3      | name.com        |
-| trends.attorney       | available | $69.99    | —             | 60             | 32     | 6      | name.com        |
-| videos.attorney       | premium   | $1,000    | —             | 52             | 30     | 6      | name.com        |
-| maps.attorney         | available | $69.99    | —             | 56             | 31     | 4      | name.com        |
-| doctors.attorney      | premium   | $3,750    | —             | 56             | 26     | 7      | name.com        |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| disco.attorney      | available | $62.99    | $62.99        | 104            | 32     | 5      | namesilo  |
+| contingent.attorney | premium   | $3,750    | $3,750        | 80             | 9      | 10     | name.com  |
+| struggle.attorney   | available | $62.99    | $62.99        | 82             | 10     | 8      | namesilo  |
+| bash.attorney       | available | $62.99    | $62.99        | 88             | 26     | 4      | namesilo  |
+| agrarian.attorney   | premium   | —         | —             | 82             | 3      | 8      | —         |
+| without.attorney    | available | $69.99    | —             | 84             | 15     | 7      | name.com  |
+| veer.attorney       | premium   | $500      | —             | 92             | 13     | 4      | name.com  |
+| brighten.attorney   | available | $62.99    | $62.99        | 80             | 10     | 8      | namesilo  |
+| affine.attorney     | premium   | —         | —             | 94             | 14     | 6      | —         |
+| total.attorney      | premium   | $123.75   | $123.75       | 108            | 37     | 5      | name.com  |
+| excursion.attorney  | available | $62.99    | $62.99        | 96             | 10     | 9      | namesilo  |
+| atheist.attorney    | premium   | $3,125    | —             | 88             | 11     | 7      | name.com  |
+| instruct.attorney   | available | $69.99    | —             | 106            | 12     | 8      | name.com  |
+| danger.attorney     | available | $69.99    | —             | 92             | 26     | 6      | name.com  |
+| kamikaze.attorney   | available | $62.99    | $62.99        | 86             | 12     | 8      | namesilo  |
+| suppose.attorney    | available | $62.99    | $62.99        | 82             | 5      | 7      | namesilo  |
+| sausage.attorney    | available | $62.99    | $62.99        | 94             | 14     | 7      | namesilo  |
+| commit.attorney     | available | $62.99    | $62.99        | 96             | 26     | 6      | namesilo  |
+| MMR.attorney        | available | $62.99    | $62.99        | 80             | 13     | 3      | namesilo  |
+| peaceful.attorney   | available | $62.99    | $62.99        | 86             | 18     | 8      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
