@@ -1,10 +1,10 @@
-# Available .ATTORNEY One-Word Domains (12,784)
+# Available .ATTORNEY One-Word Domains (12,786)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C784%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C786%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .attorney one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,784 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,786 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,784 domains · **Median ask:** $235.42 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,786 domains · **Median ask:** $219.68 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/attorney`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/attorney`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ATTORNEY one-word dom
 
 ### Files
 
-- `attorney.csv` — public CSV extract (1,000 rows)
-- `attorney.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `attorney.csv`, public CSV extract (1,000 rows)
+- `attorney.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| disco.attorney      | available | $62.99    | $62.99        | 104            | 32     | 5      | namesilo  |
-| contingent.attorney | premium   | $3,750    | $3,750        | 80             | 9      | 10     | name.com  |
-| struggle.attorney   | available | $62.99    | $62.99        | 82             | 10     | 8      | namesilo  |
-| bash.attorney       | available | $62.99    | $62.99        | 88             | 26     | 4      | namesilo  |
-| agrarian.attorney   | premium   | —         | —             | 82             | 3      | 8      | —         |
-| without.attorney    | available | $69.99    | —             | 84             | 15     | 7      | name.com  |
-| veer.attorney       | premium   | $500      | —             | 92             | 13     | 4      | name.com  |
-| brighten.attorney   | available | $62.99    | $62.99        | 80             | 10     | 8      | namesilo  |
-| affine.attorney     | premium   | —         | —             | 94             | 14     | 6      | —         |
-| total.attorney      | premium   | $123.75   | $123.75       | 108            | 37     | 5      | name.com  |
-| excursion.attorney  | available | $62.99    | $62.99        | 96             | 10     | 9      | namesilo  |
-| atheist.attorney    | premium   | $3,125    | —             | 88             | 11     | 7      | name.com  |
-| instruct.attorney   | available | $69.99    | —             | 106            | 12     | 8      | name.com  |
-| danger.attorney     | available | $69.99    | —             | 92             | 26     | 6      | name.com  |
-| kamikaze.attorney   | available | $62.99    | $62.99        | 86             | 12     | 8      | namesilo  |
-| suppose.attorney    | available | $62.99    | $62.99        | 82             | 5      | 7      | namesilo  |
-| sausage.attorney    | available | $62.99    | $62.99        | 94             | 14     | 7      | namesilo  |
-| commit.attorney     | available | $62.99    | $62.99        | 96             | 26     | 6      | namesilo  |
-| MMR.attorney        | available | $62.99    | $62.99        | 80             | 13     | 3      | namesilo  |
-| peaceful.attorney   | available | $62.99    | $62.99        | 86             | 18     | 8      | namesilo  |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| atp.attorney       | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo        |
+| anything.attorney  | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc. |
+| aaa.attorney       | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap       |
+| boy.attorney       | available | $69.99    | —             | medium         | low    | 3      | name.com        |
+| computing.attorney | resell    | —         | —             | high           | low    | 9      | eNom, LLC       |
+| ash.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| hey.attorney       | available | $69.99    | —             | medium         | medium | 3      | name.com        |
+| dew.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| ilx.attorney       | available | $62.99    | $62.99        | low            | low    | 3      | namesilo        |
+| eye.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| joy.attorney       | available | $62.99    | $62.99        | high           | medium | 3      | namesilo        |
+| fix.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| lvi.attorney       | available | $62.99    | $62.99        | low            | low    | 3      | namesilo        |
+| gal.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| MMR.attorney       | available | $62.99    | $62.99        | high           | low    | 3      | namesilo        |
+| gun.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
+| mum.attorney       | available | $62.99    | $62.99        | high           | low    | 3      | namesilo        |
+| His.attorney       | premium   | $500      | —             | high           | low    | 3      | name.com        |
+| sad.attorney       | available | $69.99    | $81.99        | high           | low    | 3      | name.com        |
+| mao.attorney       | premium   | $123.75   | —             | medium         | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,784 live domains                        |
+| 1,000-row public sample | 12,786 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,29 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .attorney domains. That makes the extension highly specific, while the word in front carries most of the branding and commercial weight. In this selection, examples such as Acup.attorney, WiFi.attorney, Trex.attorney, and ladies.attorney show how wide the naming range can be, from descriptive to awkward to potentially risky. With a median ask of $192, entry cost is modest, but low price does not make every name strong. When comparing these domains, focus on whether the word reads naturally with .attorney, signals a real legal niche, avoids trademark friction, and can be taken seriously by clients or buyers.
+This list of one-word .attorney domains spans 12,786 names, from short practice-area terms to generic single-word picks like coffeeroyal.attorney and primarycare.attorney. Most are available now at a median ask near $220, but renewal pricing runs high across the majority of this set. When comparing these domains, weigh ask price against renewal cost and demand score before committing to any single name.
 
-- The set is limited to one-word names on .attorney
-- Median ask is $192 across 12,784 listed domains
-- Best fits read naturally with a legal or client-facing angle
-- Check trademark risk before valuing brand appeal
+- 11,527 of 12,786 domains are available now, 18 resale listed.
+- Median ask near $220; most entries price under $500.
+- 8,700+ domains flag high renewal costs — verify before buying.
+- Only 16 domains score mid-to-high on demand (40+).
+- 1,241 domains are marked premium status, priced above median.
+- Undervalued picks like show.attorney show wide ask-to-reference margins.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
