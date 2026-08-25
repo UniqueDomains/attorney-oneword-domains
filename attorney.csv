@@ -507,7 +507,6 @@ d8c7b80a-6198-4b01-a8c5-af428c2a4552,uncle.attorney,premium,242,242,high,low,5,n
 2c58fa27-db41-41b6-97bf-26112bc0bdad,kilometre.attorney,available,62.99,62.99,high,low,9,namesilo,,
 7d40d1fa-990a-4ea9-b98c-5b24d6da57c8,behavioral.attorney,available,62.99,62.99,low,low,10,namesilo,,
 769dd3ce-963c-4028-87d7-e9b685c59ef2,eye.attorney,premium,118.8,118.8,medium,low,3,namesilo,,
-acf4d2e0-5a8c-4c86-b345-e737637afd27,computing.attorney,resell,,,high,low,9,"eNom, LLC",04/09/2015 07:48,04/09/2026 07:48
 b32d6e80-f24c-411b-b678-031460c2900e,cute.attorney,available,69.99,81.99,high,low,4,name.com,,
 a9a8ff12-1ece-49e7-8468-077a4d478068,Iseeyou.attorney,available,62.99,62.99,medium,low,9,namesilo,,
 9f09f3c1-b308-4218-acbb-8d237ea65042,math.attorney,available,69.99,,high,medium,4,name.com,,
@@ -950,7 +949,7 @@ fc02fedd-3ea4-4c68-a559-02ed1f8e92ca,anaglyphic.attorney,available,62.99,62.99,l
 b8c8796e-1c6e-4b5d-9dc6-7b0d18914e16,thatone.attorney,available,62.99,62.99,low,low,8,namesilo,,
 9a45a4c7-978e-4a00-b6f9-6bf34d606864,silver.attorney,premium,260,260,medium,low,6,namecheap,,
 04bf7a89-8892-47b0-a298-bb46d0b92af8,rip.attorney,premium,118.8,118.8,medium,low,3,namesilo,,
-993a5336-573e-408e-ad8d-ef15a83de6db,related.attorney,available,62.99,62.99,medium,low,7,namesilo,,
+993a5336-573e-408e-ad8d-ef15a83de6db,related.attorney,available,62.99,62.99,low,low,7,namesilo,,
 6123333d-9066-4fe8-ab87-80481e89d23b,half.attorney,available,62.99,62.99,high,low,4,namesilo,,
 cd67ad43-98a7-46c2-892e-17853bfb0db8,steps.attorney,available,62.99,62.99,high,low,5,namesilo,,
 cb72b505-c569-4c0d-85b5-501202f57c89,aberrant.attorney,available,62.99,62.99,low,low,8,namesilo,,
@@ -999,3 +998,4 @@ a83c54f1-c67f-4d80-a8d3-dddfb2a74d5f,oliveoil.attorney,available,62.99,62.99,med
 b32c3e53-9fd7-4fb4-b923-ba1ee2bc4689,starred.attorney,available,62.99,62.99,low,low,7,namesilo,,
 9bcc1160-d80f-454c-aaaf-14887636a26f,algometric.attorney,available,62.99,62.99,low,low,10,namesilo,,
 de535163-4051-4344-b21b-0cdb470c9979,dilute.attorney,available,62.99,62.99,low,low,6,namesilo,,
+5a751262-0058-4358-b315-ea29a1869681,irons.attorney,available,62.99,62.99,medium,low,5,namesilo,,
