@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .attorney one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,916 domains · **Median ask:** $171.47 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-08
+**Last updated:** 2026-09-09
 **Canonical page:** `https://unique.domains/domains/tld/attorney`
 **Best for:** founders, investors, studios
 
@@ -65,6 +65,7 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | half.attorney      | available | $62.99    | $62.99        | high           | low    | 4      | namesilo        |
+| here.attorney      | available | —         | —             | high           | low    | 4      | —               |
 | atp.attorney       | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo        |
 | anything.attorney  | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc. |
 | aaa.attorney       | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap       |
@@ -83,7 +84,6 @@ print(df.head())
 | gun.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
 | MMR.attorney       | available | $62.99    | $62.99        | high           | low    | 3      | namesilo        |
 | His.attorney       | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| mum.attorney       | available | $62.99    | $62.99        | high           | low    | 3      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
