@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .attorney one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 33,024 domains · **Median ask:** $145.02 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/attorney`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| half.attorney      | available | $62.99    | $62.99        | high           | low    | 4      | namesilo        |
-| atp.attorney       | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo        |
-| anything.attorney  | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc. |
-| aaa.attorney       | premium   | $1,300    | $1,300        | medium         | medium | 3      | namecheap       |
-| aug.attorney       | available | $62.99    | $62.99        | low            | low    | 3      | namesilo        |
-| computing.attorney | resell    | —         | —             | medium         | low    | 9      | eNom, LLC       |
-| ash.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
-| boy.attorney       | available | $69.99    | —             | medium         | low    | 3      | name.com        |
-| dew.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
-| hey.attorney       | available | $69.99    | —             | medium         | medium | 3      | name.com        |
-| eye.attorney       | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo        |
-| ilx.attorney       | available | $62.99    | $62.99        | low            | low    | 3      | namesilo        |
-| fix.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
-| joy.attorney       | available | $62.99    | $62.99        | high           | medium | 3      | namesilo        |
-| gal.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
-| lvi.attorney       | available | $62.99    | $62.99        | low            | low    | 3      | namesilo        |
-| gun.attorney       | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo        |
-| mmr.attorney       | available | $62.99    | $62.99        | high           | low    | 3      | namesilo        |
-| his.attorney       | premium   | $500      | —             | high           | low    | 3      | name.com        |
-| mum.attorney       | available | $62.99    | $62.99        | high           | low    | 3      | namesilo        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| arc.attorney      | available | $62.99    | $62.99        | high           | medium | 3      | namesilo         |
+| tire.attorney     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| aaa.attorney      | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap        |
+| atp.attorney      | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| anything.attorney | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc.  |
+| ash.attorney      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| aug.attorney      | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| ben.attorney      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| boy.attorney      | available | $69.99    | —             | high           | low    | 3      | name.com         |
+| boo.attorney      | premium   | $123.75   | —             | high           | low    | 3      | name.com         |
+| des.attorney      | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| dew.attorney      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| hey.attorney      | available | $69.99    | —             | high           | medium | 3      | name.com         |
+| dna.attorney      | premium   | $500      | —             | high           | medium | 3      | name.com         |
+| him.attorney      | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| don.attorney      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| ilx.attorney      | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo         |
+| era.attorney      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
+| joy.attorney      | available | $62.99    | $62.99        | high           | medium | 3      | namesilo         |
+| fix.attorney      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
