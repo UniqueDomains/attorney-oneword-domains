@@ -1,10 +1,10 @@
-# Available .ATTORNEY One-Word Domains (33,332)
+# Available .ATTORNEY One-Word Domains (35,709)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C332%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C709%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .attorney one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,332 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,709 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,332 domains · **Median ask:** $170.52 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 35,709 domains · **Median ask:** $164.94 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/attorney`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| bbs.attorney      | available | $65.98    | $76.98        | high           | low    | 3      | namecheap        |
+| bee.attorney      | available | $49.88    | $49.88        | high           | medium | 3      | spaceship        |
 | roof.attorney     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | abm.attorney      | premium   | $128.70   | $128.70       | high           | low    | 3      | namecheap        |
-| bee.attorney      | available | $49.88    | $49.88        | high           | medium | 3      | spaceship        |
+| bjp.attorney      | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
 | anything.attorney | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc.  |
 | dry.attorney      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| bjp.attorney      | available | $69.99    | —             | high           | low    | 3      | name.com         |
+| blu.attorney      | available | $51.58    | $51.58        | high           | medium | 3      | dynadot          |
 | gay.attorney      | premium   | $512      | $512          | high           | medium | 3      | namesilo         |
-| bun.attorney      | available | $62.99    | $62.99        | high           | low    | 3      | namesilo         |
+| cbr.attorney      | available | $48.20    | $48.20        | high           | low    | 3      | cloudflare       |
 | mba.attorney      | premium   | $520      | $520          | high           | low    | 3      | namecheap        |
 | cet.attorney      | available | $48.20    | $48.20        | medium         | low    | 3      | cloudflare       |
 | pen.attorney      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | csm.attorney      | available | $51.58    | $51.58        | high           | low    | 3      | dynadot          |
 | pop.attorney      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo         |
-| eeg.attorney      | available | $49.88    | $49.88        | high           | low    | 3      | spaceship        |
+| cyr.attorney      | available | $48.20    | $48.20        | medium         | low    | 3      | cloudflare       |
 | put.attorney      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| fey.attorney      | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo         |
+| eeg.attorney      | available | $49.88    | $49.88        | high           | low    | 3      | spaceship        |
 | rep.attorney      | premium   | $54.36    | $108.60       | high           | low    | 3      | porkbun          |
 | foe.attorney      | available | $49.88    | $49.88        | medium         | low    | 3      | spaceship        |
-| sob.attorney      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| sis.attorney      | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,332 live domains                        |
+| 1,000-row public sample | 35,709 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 15 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ATTORNEY One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
